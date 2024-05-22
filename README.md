@@ -1,3 +1,3 @@
 ### Hi there 👋
-🌱 I’m currently learning on Full-Stack Web Development
+🌱 I’m a MERN stack Developer
 🔭 I’m currently working on Backend Development
