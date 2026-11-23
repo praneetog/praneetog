@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **praneet.kashyap04@gmail.com**
+- 📫 How to reach me **[praneet.kashyap04@gmail.com](https://praneet-teal.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
