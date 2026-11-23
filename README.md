@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://praneets-portfolio.netlify.app/](https://praneets-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://praneet-teal.vercel.app/](https://praneet-teal.vercel.app/)
 
 - 📝 I regularly write articles on [https://dev.to/praneetk](https://dev.to/praneetk)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **[praneet.kashyap04@gmail.com](https://praneet-teal.vercel.app/)**
+- 📫 How to reach me **[praneet.kashyap04@gmail.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
